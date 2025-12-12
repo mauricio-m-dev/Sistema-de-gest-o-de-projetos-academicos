@@ -1,0 +1,16 @@
+{
+  "name": "mauricio-m-dev/sistema-de-gest-o-de-projetos-academicos",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "mauricio-m-dev\\sistema-de-gest-o-de-projetos-academicos\\": "sistema-de-gest-o-de-projetos-academicos/",
+      "Controller\\": "Controller/",
+      "Model\\": "Model/"
+    },
+    "minimum-stability": "dev",
+    "require": {
+      "php": ">=8.0",
+      "ext-mbstring": "*"
+    }
+  }
+}
